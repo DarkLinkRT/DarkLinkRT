@@ -1,7 +1,7 @@
 Hi 👋 
 ===========================================
 
-My name is Jorge ( but DarkLinKRT in my social media and games :p).
+My name is Jorge (but DarkLinkRT in my social media and games :p).
 I speak Spanish but I'm using my little knowledge in English for this occasion.
 Working full time and studying programming in between! JavaScript was my first language and I'm currently pursuing a Full-Stack roadmap.
 
@@ -15,8 +15,14 @@ Working full time and studying programming in between! JavaScript was my first l
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Php" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
