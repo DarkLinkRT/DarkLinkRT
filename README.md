@@ -1,7 +1,7 @@
 Hi 👋 
 ===========================================
 
-My name is Jorge (but DarkLinkRT in my social media and games :p).
+My name is Jorge (DarkLinkRT in my social media and games :p).
 I speak Spanish but I'm using my little knowledge in English for this occasion.
 4 Years coding in BackEnd Languages! 
 Working full time and studying programming in between! JavaScript was my first language and I'm currently pursuing a Full-Stack roadmap.
